@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/git-compare/static/js/main.4ead7402.chunk.js",
+    "main.js.map": "/git-compare/static/js/main.4ead7402.chunk.js.map",
+    "runtime~main.js": "/git-compare/static/js/runtime~main.84d43ad0.js",
+    "runtime~main.js.map": "/git-compare/static/js/runtime~main.84d43ad0.js.map",
+    "static/css/2.a05569e8.chunk.css": "/git-compare/static/css/2.a05569e8.chunk.css",
+    "static/js/2.813eedcc.chunk.js": "/git-compare/static/js/2.813eedcc.chunk.js",
+    "static/js/2.813eedcc.chunk.js.map": "/git-compare/static/js/2.813eedcc.chunk.js.map",
+    "index.html": "/git-compare/index.html",
+    "precache-manifest.711c538b30c99252aa7038640ec5d675.js": "/git-compare/precache-manifest.711c538b30c99252aa7038640ec5d675.js",
+    "service-worker.js": "/git-compare/service-worker.js",
+    "static/css/2.a05569e8.chunk.css.map": "/git-compare/static/css/2.a05569e8.chunk.css.map",
+    "static/media/font-awesome.css": "/git-compare/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
